@@ -6,7 +6,9 @@ Presentation Video link :
 
 ## What does this project do?
 This project has started with a goal to help students of Handong Global University(HGU) by providing more convenient way to access function in the school webpage. 
+
 The name HandongRemy came from a cat called Remy that lives in HGU. Because, like the cat, I wanted this project to be very accessible to the students in HGU.
+
 For that reason, I chose to create an API server for KakaoTalk chat bot, which is the most popular messenger app in South Korea.
 
 This project can currently do 5 functions:
@@ -17,7 +19,9 @@ This project can currently do 5 functions:
 5. Apply for sleepover for dormitory
 
 ## Why is this project useful?
-In my opinion, there is a problem with our school webpage that is the functions for viewing conference room reservation status or applying for reservation is not very easy to access, especially using mobile device. By creating an API server that can do those functions, and connecting it to KakaoTalk chat bot, it becomes interactive and much more accessible.
+In my opinion, there is a problem with our school webpage that is the functions for viewing conference room reservation status or applying for reservation is not very easy to access, especially using mobile device. 
+
+By creating an API server that can do those functions, and connecting it to KakaoTalk chat bot, it becomes interactive and much more accessible.
 
 ## How to get started?
 1. Create KakaoTalk Channel from https://center-pf.kakao.com/
