@@ -1,7 +1,9 @@
 
 # HandongRemy
+#### An API server for KakaoTalk chat bot
 
 21900050 Eunhyeok Kwon
+
 Presentation Video link : 
 
 ## What does this project do?
@@ -32,6 +34,15 @@ By creating an API server that can do those functions, and connecting it to Kaka
 6. Use [pagekite](https://pagekite.net/downloads) to make local server visible to the world
 7. run flask in src directory
 8. Your chat bot should be ready to serve!
+
+## My contribution to this project
+The entire source codes are created from scratch! (by me)
+For the implementation of Kakaotalk chat bot I referred to the 
+
+## Important notice about this project
+'String.py' is intentionally ommitted in the src file because it contains web urls that are only visible to memebers and I thought exposing those internal urls could cause secuity issue.
+
+If you contact me and prove that you are a member of HGU I will definitely provide the file!
 
 ### Contact
 You can contact me via eunhyeoq@gmail.com if you have any question or need help about this project!
