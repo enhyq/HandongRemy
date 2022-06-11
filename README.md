@@ -8,6 +8,7 @@ Presentation Video link :
 This project has started with a goal to help students of Handong Global University(HGU) by providing more convenient way to access function in the school webpage. 
 The name HandongRemy came from a cat called Remy that lives in HGU. Because like the cat that lives around, I wanted this project to be very accessible to the students.
 For that reason, I chose to create an API skill server for KakaoTalk chat bot, which is the most popular messenger app in South Korea.
+
 This project can currently do 5 functions:
 1. Return random number between 1 ~ 10 (inclusive)
 2. Return today's menu of cafeteria
