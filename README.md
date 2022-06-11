@@ -4,7 +4,7 @@
 
 21900050 Eunhyeok Kwon
 
-Presentation Video link : 
+Presentation Video link : https://youtu.be/j5TErKd7nEY
 
 ## What does this project do?
 This project has started with a goal to help students of Handong Global University(HGU) by providing more convenient way to access function in the school webpage. 
